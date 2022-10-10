@@ -1,4 +1,4 @@
-# Metaverse-for-Smart-Factory-Contest-2022-Team-3-AUTO101
+# Metaverse for Smart Factory Contest 2022
 ผลงานการแข่งขัน Metaverse for Smart Factory Contest 2022 (https://smartfactory.hcilab.net/contest/metaverse2022/)
 ## ชื่อผลงาน โรงงานคัดแยกผลไม้อัจฉริยะ (Smart fruit sorting factory)
 ### ที่มาและความสำคัญ
@@ -18,4 +18,15 @@
 
 ![Screenshot (826)](https://user-images.githubusercontent.com/114386015/194271160-4c0bdded-8746-425e-8120-a94338a00964.png)
 
+### คลิปสาธิตผลงาน
 https://youtu.be/txzhI6dqTlM
+
+## รายชื่อสมาชิกทีม AUTO101
+1. คันธารัตน์ บุตรดามา
+2. ญาณภัทร อุ่ยวัฒนา
+3. ณัฐธพล ตันสำโรง
+4. กิตตินันท์ ศรีธนานุวัฒน์
+5. ชมพูนุท ศิริกุลพิสุทธิ์
+6. กิตติกานต์ จิตต์รุ่งเรืองสุข 
+### ช่องทางการติดต่อ
+Email: 63010246@kmitl.ac.th
